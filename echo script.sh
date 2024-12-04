@@ -1,0 +1,3 @@
+A= "Kamal"
+
+echo $A
